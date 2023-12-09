@@ -20,3 +20,5 @@ class Calculator {
 
 var cal = new Calculator();
 console.log(cal(1,2));
+
+console.log("app2");
